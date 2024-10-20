@@ -6,7 +6,7 @@ This repository is a growing collection of open-source projects and free tools, 
 
 ## 🚀 Latest Additions
 
-📅 **[Weekly Dev Tech Pulse#1](https://serdarcanb.github.io/posts/2024-10-12-weekly-dev-tech-pulse-1/)**  
+📅 **[Weekly Dev Tech Pulse#2](https://serdarcanb.github.io/posts/2024-10-20-weekly-dev-tech-pulse-2/)**  
 Date: 20.10.2024
 
 Check out more projects in the [projects section](#projects).
