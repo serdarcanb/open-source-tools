@@ -1,22 +1,3 @@
----
-layout: single
-tags:
-- tools
-modified: 2024-11-03
-excerpt: "<br>"
-author: Serdarcan Buyukdereli
-title: Open Source Tools
-permalink: /tools/
-author_profile: true
-comments: true
-classes: wide
-header:
-   overlay_color: "#5e616c"
-   overlay_image: https://serdarcanb.github.io/assets/images/OpenSource.png
-   overlay_filter: .8
-   teaser: https://serdarcanb.github.io/assets/images/OpenSource.png
-image: https://serdarcanb.github.io/assets/images/OpenSource.png
----
 
 🌍 **Open Source Tools** - Discover the best open-source projects and tools from around the world!
 
@@ -24,7 +5,7 @@ This repository is a growing collection of open-source projects and free tools, 
 
 ## 🚀 Latest Additions
 
-📅 **[Weekly Dev Tech Pulse#4](https://serdarcanb.github.io/posts/2024-11-03-weekly-dev-tech-pulse-4/)**  
+📅 **[Weekly Dev Tech Pulse#2](https://blog.serdarcanb.dev/weekly-dev-tech-pulse-2/)**  
 Date: 03.11.2024
 
 Check out more projects in the [projects section](https://github.com/serdarcanb/open-source-tools).
@@ -65,6 +46,10 @@ Click the categories below to filter tools by type:
 | [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) | ![Github Stars](https://img.shields.io/github/stars/semaphoreui/semaphore) | Free  | Semaphore is an open-source, self-hosted platform for deploying and managing Ansible playbooks with an intuitive web interface |  `open-source` `ansible` `self-hosted` `terraform` `ui` |
 | [netdata/netdata](https://github.com/netdata/netdata) | ![Github Stars](https://img.shields.io/github/stars/netdata/netdata) | Free  | Netdata is an open-source, real-time monitoring and troubleshooting tool for systems and applications, providing detailed insights through an intuitive web interface. |  `open-source` `monitoring` `self-hosted` `real-time` `ui` |
 | [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | ![Github Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io) | Free  | “changedetection.io is an open-source tool that monitors websites for content changes, alerting users to updates, restocks, and price changes.” |  `open-source` `website-monitoring` `self-hosted` `crawler` `ui` |
+| [keephq/keep](https://github.com/keephq/keep) | ![Github Stars](https://img.shields.io/github/stars/keephq/keep) | Free  | "KeepHQ is an open-source platform for monitoring business and engineering metrics, offering customizable alerts and insights for teams.” |  `open-source` `aiops` `monitoring` `alerts` `ui` |
+| [nezhahq/nezha](https://github.com/nezhahq/nezha) | ![Github Stars](https://img.shields.io/github/stars/nezhahq/nezha) | Free  | "Nezha is a lightweight, self-hosted monitoring and operations tool for servers and websites, supporting system status, HTTP, TCP, and Ping monitoring.” |  `open-source` `self-hosted` `monitoring` `alerts` `ui` |
+| [knadh/listmonk](https://github.com/knadh/listmonk) | ![Github Stars](https://img.shields.io/github/stars/knadh/listmonk) | Free  | "Listmonk is a high-performance, self-hosted newsletter and mailing list manager with a modern dashboard, packaged as a single binary application.” |  `open-source` `self-hosted` `newsletter-management` `mail-list-manager` |
+| [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) | ![Github Stars](https://img.shields.io/github/stars/jesseduffield/lazydocker) | Free  | "Lazydocker is a simple terminal UI for both Docker and Docker Compose, designed to simplify container management.” |  `open-source` `self-hosted` `docker` `ui` `container-management` |
 
 
 
@@ -80,6 +65,7 @@ Click the categories below to filter tools by type:
 | [epublifier](https://github.com/maoserr/epublifier) | Converts some webnovels to epub format. | `extension` `epub` `Free` |
 | [gitbutler](https://github.com/gitbutlerapp/gitbutler) | GitButler is an open-source Git client that allows developers to manage multiple branches at once with virtual branches, enhancing productivity and simplifying workflows. | `git-client` `open-source` `Free` |
 | [Captain](https://getcaptain.co/) | Manage Docker containers from the menu bar in macOS. | `docker` `open-source` `Free` |
+| [Warestack](https://www.warestack.com/) | Warestack automates operational tasks and workflows triggered by code changes, integrating with platforms like GitHub. | `devops` `automation` `Free`  `code-automation`|
 
 
 ### Video & Podcast
@@ -89,6 +75,7 @@ Click the categories below to filter tools by type:
 | [How Notion Scaled to 100 Million Users Without Their Database Exploding](https://www.youtube.com/watch?v=HruBoinmPBA) | 
 | [How Uber Handles TRILLIONS of Transactions](https://www.youtube.com/watch?v=qGAPokt6Buo) | 
 | [The Untold Story of GitHub](https://www.youtube.com/watch?v=THtsXAewIVc) | 
+| [The Untold Story of VS Code](https://www.youtube.com/watch?v=vBhaFvwvRac) | 
 
 
 ### Article
@@ -109,3 +96,6 @@ Click the categories below to filter tools by type:
 | [How Amazon S3 Works](https://newsletter.systemdesign.one/p/s3-architecture) | 
 | [Git Branching Strategies](https://newsletter.techworld-with-milan.com/p/git-branching-strategies) | 
 | [10 Best Resources to Learn Software Architecture in 2025](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76) | 
+| [Message Queues in System Design](https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023) | 
+| [How I Study Consistently With A Full-Time Job](https://medium.com/write-a-catalyst/how-i-study-consistently-with-a-full-time-job-fc3362793def) | 
+| [From Monolithic to Microservices: Architectures 101](https://dev.to/encore/from-monolithic-to-microservices-architectures-101-3f2e) | 
